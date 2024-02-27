@@ -1,0 +1,12 @@
+{
+    "name": "meu-projeto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "flappy.js",
+    "scripts": {
+      "start": "flappy.html"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
